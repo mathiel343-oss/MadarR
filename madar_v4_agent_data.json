@@ -1,0 +1,882 @@
+{
+  "project": "MADAR AI V4",
+  "data_type": "SIMULATED",
+  "created_at": "2026-11-08T15:56:55.348406",
+  "summary": {
+    "total_bins": 200,
+    "urgent_bins": 38,
+    "high_priority_bins": 60,
+    "assigned_bins": 38,
+    "unassigned_bins": 0,
+    "total_trucks": 3
+  },
+  "top_priority_bins": [
+    {
+      "bin_id": "BIN_005",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.8,
+      "predicted_30m": 85.6470492381,
+      "predicted_crowd_30m": 0.5982395981,
+      "priority_score": 81.3442194966,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_176",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.39,
+      "predicted_30m": 85.5803789699,
+      "predicted_crowd_30m": 0.595939085,
+      "priority_score": 81.2467045068,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_124",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.83,
+      "predicted_30m": 85.3573981494,
+      "predicted_crowd_30m": 0.5941210303,
+      "priority_score": 81.0674646476,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_027",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.97,
+      "predicted_30m": 85.3443863699,
+      "predicted_crowd_30m": 0.5941210303,
+      "priority_score": 81.0596575799,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_020",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.44,
+      "predicted_30m": 85.2002765307,
+      "predicted_crowd_30m": 0.595939085,
+      "priority_score": 81.0186430432,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_088",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.81,
+      "predicted_30m": 85.3506912084,
+      "predicted_crowd_30m": 0.5912364405,
+      "priority_score": 80.9913257378,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_077",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.32,
+      "predicted_30m": 85.0706970066,
+      "predicted_crowd_30m": 0.5932391076,
+      "priority_score": 80.8733958943,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_186",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.32,
+      "predicted_30m": 84.8113978857,
+      "predicted_crowd_30m": 0.5912364405,
+      "priority_score": 80.6677497442,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_155",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.66,
+      "predicted_30m": 85.3960578411,
+      "predicted_crowd_30m": 0.5362595847,
+      "priority_score": 79.6441243209,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_070",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.3,
+      "predicted_30m": 85.2893810618,
+      "predicted_crowd_30m": 0.5382903966,
+      "priority_score": 79.6308885523,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_114",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.41,
+      "predicted_30m": 85.3351709567,
+      "predicted_crowd_30m": 0.5362131808,
+      "priority_score": 79.6064320936,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_094",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.15,
+      "predicted_30m": 85.4607631466,
+      "predicted_crowd_30m": 0.5324595247,
+      "priority_score": 79.5879460061,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_096",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.42,
+      "predicted_30m": 85.3297110812,
+      "predicted_crowd_30m": 0.5310225547,
+      "priority_score": 79.4733905168,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_076",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.49,
+      "predicted_30m": 84.9716975182,
+      "predicted_crowd_30m": 0.5359400403,
+      "priority_score": 79.3815195173,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_144",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.65,
+      "predicted_30m": 84.9028551412,
+      "predicted_crowd_30m": 0.5288451548,
+      "priority_score": 79.1628419537,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_063",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.16,
+      "predicted_30m": 84.4553152242,
+      "predicted_crowd_30m": 0.5382903966,
+      "priority_score": 79.1304490497,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_188",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.26,
+      "predicted_30m": 84.3971051932,
+      "predicted_crowd_30m": 0.5350009821,
+      "priority_score": 79.0132876675,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_199",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 79.53,
+      "predicted_30m": 83.7363197853,
+      "predicted_crowd_30m": 0.5350009821,
+      "priority_score": 78.6168164227,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_139",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 79.26,
+      "predicted_30m": 83.5794518999,
+      "predicted_crowd_30m": 0.5350009821,
+      "priority_score": 78.5226956915,
+      "priority_level": "High"
+    },
+    {
+      "bin_id": "BIN_189",
+      "zone": "Mina_Camps",
+      "fill_percent": 81.9,
+      "predicted_30m": 85.3893312714,
+      "predicted_crowd_30m": 0.4478266616,
+      "priority_score": 77.4292653028,
+      "priority_level": "High"
+    }
+  ],
+  "urgent_bins": [
+    {
+      "bin_id": "BIN_176",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.39,
+      "predicted_30m": 85.5803789699,
+      "intervention_in_min": 11.9058315185,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_005",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.8,
+      "predicted_30m": 85.6470492381,
+      "intervention_in_min": 12.0216030665,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_124",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.83,
+      "predicted_30m": 85.3573981494,
+      "intervention_in_min": 13.7199491642,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_027",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.97,
+      "predicted_30m": 85.3443863699,
+      "intervention_in_min": 13.7263467416,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_094",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.15,
+      "predicted_30m": 85.4607631466,
+      "intervention_in_min": 13.8065068293,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_088",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.81,
+      "predicted_30m": 85.3506912084,
+      "intervention_in_min": 13.8144633642,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_114",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.41,
+      "predicted_30m": 85.3351709567,
+      "intervention_in_min": 14.395097636,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_155",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.66,
+      "predicted_30m": 85.3960578411,
+      "intervention_in_min": 14.4473245323,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_096",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.42,
+      "predicted_30m": 85.3297110812,
+      "intervention_in_min": 14.5047221952,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_070",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 81.3,
+      "predicted_30m": 85.2893810618,
+      "intervention_in_min": 14.7495090263,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_020",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.44,
+      "predicted_30m": 85.2002765307,
+      "intervention_in_min": 14.7987400087,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_034",
+      "zone": "Mina_Main_Roads",
+      "fill_percent": 81.89,
+      "predicted_30m": 85.4156941057,
+      "intervention_in_min": 14.8874278523,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_189",
+      "zone": "Mina_Camps",
+      "fill_percent": 81.9,
+      "predicted_30m": 85.3893312714,
+      "intervention_in_min": 14.9352715383,
+      "intervention_action": "Within 15 min"
+    },
+    {
+      "bin_id": "BIN_146",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.25,
+      "predicted_30m": 85.359726924,
+      "intervention_in_min": 15.3417226571,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_160",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.94,
+      "predicted_30m": 85.397865742,
+      "intervention_in_min": 15.3602298245,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_046",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.59,
+      "predicted_30m": 85.4265502446,
+      "intervention_in_min": 15.628202815,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_077",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.32,
+      "predicted_30m": 85.0706970066,
+      "intervention_in_min": 15.6549714855,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_042",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.55,
+      "predicted_30m": 85.3109224688,
+      "intervention_in_min": 15.6678288191,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_067",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.17,
+      "predicted_30m": 85.3279898881,
+      "intervention_in_min": 15.9933766111,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_149",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.81,
+      "predicted_30m": 85.3152383904,
+      "intervention_in_min": 16.1140567218,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_025",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.49,
+      "predicted_30m": 85.207293975,
+      "intervention_in_min": 16.8205792101,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_076",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.49,
+      "predicted_30m": 84.9716975182,
+      "intervention_in_min": 17.1503531578,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_186",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.32,
+      "predicted_30m": 84.8113978857,
+      "intervention_in_min": 17.3912089455,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_112",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.54,
+      "predicted_30m": 85.1949791965,
+      "intervention_in_min": 17.4089706399,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_144",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.65,
+      "predicted_30m": 84.9028551412,
+      "intervention_in_min": 17.7525907317,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_170",
+      "zone": "Mina_Camps",
+      "fill_percent": 82.38,
+      "predicted_30m": 85.1306039045,
+      "intervention_in_min": 17.8874130786,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_145",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.03,
+      "predicted_30m": 85.103572399,
+      "intervention_in_min": 18.0353599292,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_089",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.65,
+      "predicted_30m": 85.1607664827,
+      "intervention_in_min": 18.1355757991,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_093",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.03,
+      "predicted_30m": 85.080652034,
+      "intervention_in_min": 19.1545498521,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_061",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.87,
+      "predicted_30m": 84.9850127591,
+      "intervention_in_min": 20.1183629174,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_063",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.16,
+      "predicted_30m": 84.4553152242,
+      "intervention_in_min": 20.7299150817,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_084",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.79,
+      "predicted_30m": 84.8955010583,
+      "intervention_in_min": 20.9497171619,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_188",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 80.26,
+      "predicted_30m": 84.3971051932,
+      "intervention_in_min": 21.3468451464,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_050",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 82.0,
+      "predicted_30m": 84.8557429711,
+      "intervention_in_min": 21.5719422568,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_128",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.35,
+      "predicted_30m": 84.4851740834,
+      "intervention_in_min": 24.9827911917,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_048",
+      "zone": "Mina_Service_Areas",
+      "fill_percent": 81.55,
+      "predicted_30m": 84.4844464324,
+      "intervention_in_min": 25.259551571,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_199",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 79.53,
+      "predicted_30m": 83.7363197853,
+      "intervention_in_min": 25.9877109713,
+      "intervention_action": "Within 30 min"
+    },
+    {
+      "bin_id": "BIN_139",
+      "zone": "Mina_Jamarat",
+      "fill_percent": 79.26,
+      "predicted_30m": 83.5794518999,
+      "intervention_in_min": 26.8411544011,
+      "intervention_action": "Within 30 min"
+    }
+  ],
+  "truck_summary": [
+    {
+      "truck_id": "TRUCK_01",
+      "capacity_liters": 8000,
+      "assigned_liters": 7961.08,
+      "remaining_liters": 38.92
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "capacity_liters": 10000,
+      "assigned_liters": 9932.87,
+      "remaining_liters": 67.13
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "capacity_liters": 12000,
+      "assigned_liters": 3437.81,
+      "remaining_liters": 8562.19
+    }
+  ],
+  "route_summary": [
+    {
+      "truck_id": "TRUCK_01",
+      "stops": 16,
+      "estimated_air_distance_km": 4.58
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stops": 15,
+      "estimated_air_distance_km": 5.74
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stops": 7,
+      "estimated_air_distance_km": 3.62
+    }
+  ],
+  "optimized_routes": [
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 1,
+      "bin_id": "BIN_034",
+      "zone": "Mina_Main_Roads",
+      "latitude": 21.4197065752,
+      "longitude": 39.884216853,
+      "waste_liters": 900.79
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 2,
+      "bin_id": "BIN_124",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4225584742,
+      "longitude": 39.8891854747,
+      "waste_liters": 889.13
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 3,
+      "bin_id": "BIN_096",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4240497588,
+      "longitude": 39.8898194463,
+      "waste_liters": 537.37
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 4,
+      "bin_id": "BIN_186",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4226649057,
+      "longitude": 39.8904301683,
+      "waste_liters": 192.77
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 5,
+      "bin_id": "BIN_155",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4222738223,
+      "longitude": 39.8913561736,
+      "waste_liters": 887.26
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 6,
+      "bin_id": "BIN_005",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4219574421,
+      "longitude": 39.8903841715,
+      "waste_liters": 533.28
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 7,
+      "bin_id": "BIN_070",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4212544759,
+      "longitude": 39.8900478406,
+      "waste_liters": 536.58
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 8,
+      "bin_id": "BIN_088",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4207060297,
+      "longitude": 39.8900861564,
+      "waste_liters": 533.35
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 9,
+      "bin_id": "BIN_114",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4200824873,
+      "longitude": 39.8898796323,
+      "waste_liters": 195.38
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 10,
+      "bin_id": "BIN_027",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.419930217,
+      "longitude": 39.8889066309,
+      "waste_liters": 890.67
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 11,
+      "bin_id": "BIN_176",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.418331261,
+      "longitude": 39.8900335973,
+      "waste_liters": 195.34
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 12,
+      "bin_id": "BIN_094",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4190776551,
+      "longitude": 39.8889826801,
+      "waste_liters": 194.76
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 13,
+      "bin_id": "BIN_020",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4189383607,
+      "longitude": 39.8883453089,
+      "waste_liters": 884.84
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 14,
+      "bin_id": "BIN_046",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4130795919,
+      "longitude": 39.8810503346,
+      "waste_liters": 195.82
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 15,
+      "bin_id": "BIN_149",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.411955764,
+      "longitude": 39.876545435,
+      "waste_liters": 196.34
+    },
+    {
+      "truck_id": "TRUCK_01",
+      "stop_order": 16,
+      "bin_id": "BIN_146",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4143289496,
+      "longitude": 39.8796592633,
+      "waste_liters": 197.4
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 1,
+      "bin_id": "BIN_063",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.419547584,
+      "longitude": 39.8872561822,
+      "waste_liters": 192.38
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 2,
+      "bin_id": "BIN_076",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4216825812,
+      "longitude": 39.8892551905,
+      "waste_liters": 531.23
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 3,
+      "bin_id": "BIN_144",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4213256398,
+      "longitude": 39.8906437884,
+      "waste_liters": 532.29
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 4,
+      "bin_id": "BIN_077",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4207705213,
+      "longitude": 39.8896328139,
+      "waste_liters": 530.11
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 5,
+      "bin_id": "BIN_025",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4129627549,
+      "longitude": 39.8805577645,
+      "waste_liters": 907.39
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 6,
+      "bin_id": "BIN_042",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4110580193,
+      "longitude": 39.8814690499,
+      "waste_liters": 544.83
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 7,
+      "bin_id": "BIN_089",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.410719451,
+      "longitude": 39.8806764578,
+      "waste_liters": 545.49
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 8,
+      "bin_id": "BIN_093",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4092921189,
+      "longitude": 39.8807459794,
+      "waste_liters": 902.33
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 9,
+      "bin_id": "BIN_112",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4085679263,
+      "longitude": 39.8809404712,
+      "waste_liters": 896.94
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 10,
+      "bin_id": "BIN_145",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4105766554,
+      "longitude": 39.8795082333,
+      "waste_liters": 902.33
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 11,
+      "bin_id": "BIN_189",
+      "zone": "Mina_Camps",
+      "latitude": 21.4093788792,
+      "longitude": 39.875838105,
+      "waste_liters": 900.9
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 12,
+      "bin_id": "BIN_067",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.411110032,
+      "longitude": 39.8768688294,
+      "waste_liters": 542.32
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 13,
+      "bin_id": "BIN_160",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4131139082,
+      "longitude": 39.8785493355,
+      "waste_liters": 901.34
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 14,
+      "bin_id": "BIN_170",
+      "zone": "Mina_Camps",
+      "latitude": 21.4170930229,
+      "longitude": 39.8738411216,
+      "waste_liters": 906.18
+    },
+    {
+      "truck_id": "TRUCK_02",
+      "stop_order": 15,
+      "bin_id": "BIN_050",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4167263622,
+      "longitude": 39.8805400117,
+      "waste_liters": 196.8
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stop_order": 1,
+      "bin_id": "BIN_128",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4144353447,
+      "longitude": 39.8797336943,
+      "waste_liters": 195.24
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stop_order": 2,
+      "bin_id": "BIN_084",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4126982487,
+      "longitude": 39.877882301,
+      "waste_liters": 539.81
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stop_order": 3,
+      "bin_id": "BIN_048",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4107762056,
+      "longitude": 39.878004159,
+      "waste_liters": 538.23
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stop_order": 4,
+      "bin_id": "BIN_061",
+      "zone": "Mina_Service_Areas",
+      "latitude": 21.4105218942,
+      "longitude": 39.8801417628,
+      "waste_liters": 900.57
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stop_order": 5,
+      "bin_id": "BIN_139",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4195126567,
+      "longitude": 39.8890157684,
+      "waste_liters": 190.22
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stop_order": 6,
+      "bin_id": "BIN_199",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4211140857,
+      "longitude": 39.8902997056,
+      "waste_liters": 190.87
+    },
+    {
+      "truck_id": "TRUCK_03",
+      "stop_order": 7,
+      "bin_id": "BIN_188",
+      "zone": "Mina_Jamarat",
+      "latitude": 21.4206937981,
+      "longitude": 39.8896510696,
+      "waste_liters": 882.86
+    }
+  ]
+}
